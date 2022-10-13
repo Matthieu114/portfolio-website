@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.42ef50e3.css",
-    "main.js": "/portfolio-website/static/js/main.a70ccacf.js",
-    "static/media/e-commerce.png": "/portfolio-website/static/media/e-commerce.eaa7087a6d18e8062194.png",
-    "static/media/chat-app.png": "/portfolio-website/static/media/chat-app.4b1f29aead34653cf2fd.png",
-    "static/media/dspse.png": "/portfolio-website/static/media/dspse.61641035c3832cfd07e4.png",
-    "static/media/spotify.jpg": "/portfolio-website/static/media/spotify.428fe62a56320149fe59.jpg",
-    "static/media/pixelart2.png": "/portfolio-website/static/media/pixelart2.abb7462e467a47b0734f.png",
-    "static/media/spacerace.png": "/portfolio-website/static/media/spacerace.e43ac6dc15132a80e20b.png",
-    "index.html": "/portfolio-website/index.html",
-    "main.42ef50e3.css.map": "/portfolio-website/static/css/main.42ef50e3.css.map",
-    "main.a70ccacf.js.map": "/portfolio-website/static/js/main.a70ccacf.js.map"
+    "main.css": "/static/css/main.0cda1121.css",
+    "main.js": "/static/js/main.5e6788ff.js",
+    "static/media/e-commerce.png": "/static/media/e-commerce.eaa7087a6d18e8062194.png",
+    "static/media/chat-app.png": "/static/media/chat-app.4b1f29aead34653cf2fd.png",
+    "static/media/dspse.png": "/static/media/dspse.61641035c3832cfd07e4.png",
+    "static/media/spotify.jpg": "/static/media/spotify.428fe62a56320149fe59.jpg",
+    "static/media/pixelart2.png": "/static/media/pixelart2.abb7462e467a47b0734f.png",
+    "static/media/spacerace.png": "/static/media/spacerace.e43ac6dc15132a80e20b.png",
+    "index.html": "/index.html",
+    "main.0cda1121.css.map": "/static/css/main.0cda1121.css.map",
+    "main.5e6788ff.js.map": "/static/js/main.5e6788ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.42ef50e3.css",
-    "static/js/main.a70ccacf.js"
+    "static/css/main.0cda1121.css",
+    "static/js/main.5e6788ff.js"
   ]
 }
